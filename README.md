@@ -20,7 +20,7 @@ currently busy with my AWS Cloud Practitioner Certificate and at the same time b
 ![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
 ![React](https://img.shields.io/badge/-React-orange)
 
-![spring boot](https://img.shields.io/badge/-spring%20Boot-G)
+![Spring boot](https://img.shields.io/badge/-spring%20Boot-G)
 ![Junit5](https://img.shields.io/badge/-Junit5-G)
 ![MockMvc](https://img.shields.io/badge/-MockMvc-G)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-yellow)
@@ -29,7 +29,7 @@ currently busy with my AWS Cloud Practitioner Certificate and at the same time b
 
 ![Git](https://img.shields.io/badge/-Git-G)
 ![REST](https://img.shields.io/badge/-REST-G)
-![Intellij' Idea](https://img.shields.io/badge/-Intellij'%20Idea-G)
+![Intellij](https://img.shields.io/badge/-Intellij'%20Idea-G)
 ![AWS](https://img.shields.io/badge/-AWS-G)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-yellow)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-yellow)
