@@ -8,7 +8,7 @@
 ---
 
 I am a passionated Senior Java Software Engineer, but i see myself working with Kotlin in the near future 😎. I love learning new things and
-currently busy with my AWS Cloud Practintioners Certificate and at the same time building poc's to help me learn more about Kotlin and Kafka.
+currently busy with my AWS Cloud Practitioner Certificate and at the same time building poc's to help me learn more about Kotlin and Kafka.
 
 ---
 
