@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Kotlin microservices with Kafak
+- 🌱 I’m currently studying towards AWS Cloud Practitioner Certificate
+
 <!--
 **michelleav/michelleav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
