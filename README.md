@@ -20,7 +20,7 @@ currently busy with my AWS Cloud Practitioner Certificate and at the same time b
 ![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
 ![React](https://img.shields.io/badge/-React-orange)
 
-![Spring boot](https://img.shields.io/badge/-spring%20Boot-G)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-G)
 ![Junit5](https://img.shields.io/badge/-Junit5-G)
 ![MockMvc](https://img.shields.io/badge/-MockMvc-G)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-yellow)
