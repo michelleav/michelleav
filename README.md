@@ -40,6 +40,6 @@ currently busy with my AWS Cloud Practitioner Certificate and at the same time b
 ### 👥 My communities and meetups I attend
 
 <p>
-    <img src="https://secure-content.meetupstatic.com/images/classic-events/477032021/200x113.jpg" alt="Amsterdam Java User group logo"/>
-    Key Member at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEFF-3VA83eaGO19iwwHGbvsrqnO8PUGUkg&s" alt="Nederlandse Java User Group logo"/>
+    <img src="https://secure-content.meetupstatic.com/images/classic-events/477032021/200x113.jpg" alt="Amsterdam Java User group logo"/><br>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEFF-3VA83eaGO19iwwHGbvsrqnO8PUGUkg&s" alt="Nederlandse Java User Group logo"/>
 </p>
