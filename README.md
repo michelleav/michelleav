@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Kotlin microservices with Kafak
+- 🔭 I’m currently working on Kotlin microservices with Kafka
 - 🌱 I’m currently studying towards AWS Cloud Practitioner Certificate
 
 <!--
