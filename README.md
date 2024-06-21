@@ -41,5 +41,5 @@ currently busy with my AWS Cloud Practitioner Certificate and at the same time b
 
 <p>
     <img src="https://secure-content.meetupstatic.com/images/classic-events/477032021/200x113.jpg" alt="Amsterdam Java User group logo"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEFF-3VA83eaGO19iwwHGbvsrqnO8PUGUkg&s" alt="Nederlandse Java User Group logo"/>
+    Key Member at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEFF-3VA83eaGO19iwwHGbvsrqnO8PUGUkg&s" alt="Nederlandse Java User Group logo"/>
 </p>
